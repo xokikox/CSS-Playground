@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Pushster&display=swap');
+
+body {
+    background-color: burlywood;
+}
+
+.heading {
+    text-align: center;
+}
+
+.playground-heading {
+    color: rgb(226, 93, 164);
+    font-family: 'Pushster', cursive; 
+    font-size: 3rem;
+}
+
+.main {
+   border: 3px solid grey; 
+    width: 55%;
+    margin: 1rem auto;
+}
+
+.main div {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black; 
+    border-radius: 50%;
+    margin: 2rem auto;
+}
+
+#red {
+    border-color: red;
+}
+
+#yellow {
+    border-color: yellow;
+}
+
+#green {
+    border-color: green;
+}
+
+.footer {
+    text-align:center;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 1rem;
+    color: white;
+}
